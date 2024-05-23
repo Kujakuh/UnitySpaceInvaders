@@ -50,7 +50,7 @@ MonoBehaviour:
   isEnemyBullet: 1
   enemyKillPoints: 0
   scaleFactor: 0.99942
-  bulletSpeed: 5000
+  bulletSpeed: 3000
   rg: {fileID: 0}
 --- !u!54 &-6213840095414562262
 Rigidbody:

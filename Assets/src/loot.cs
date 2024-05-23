@@ -14,9 +14,10 @@ public class loot : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         transform.Rotate( new Vector3(0.2f, 0.3f, 0.1f) );
+        transform.position = new Vector3(transform.position.x, 3.1f, transform.position.z);
     }
 
     void OnCollisionEnter(Collision other)

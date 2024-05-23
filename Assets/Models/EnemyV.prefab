@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosion: {fileID: 142012, guid: 5534fe87bdddbbb44ab4dd43c16c1a1e, type: 3}
-  speed: 2500
+  speed: 1500
   bullet: {fileID: 165250, guid: ab0a149d614d3e84b8cef10817dd6162, type: 3}
   bulletSpawnLocation: {fileID: 8273458713382048988}
   fireRate: 2
